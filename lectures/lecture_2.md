@@ -599,7 +599,7 @@ print(f"Множество после удаления элемента: {my_set
   print(s1 | s2)  # {1, 2, 3, 4, 5} (объединение)
   union_set = s1.union(s2) # {1, 2, 3, 4, 5} (объединение)
   print(s1 & s2)  # {3} (пересечение)
-  intersection_set = s1.intersection(s2 # {3} (пересечение)
+  intersection_set = s1.intersection(s2) # {3} (пересечение)
   ```
 
 - **Разность и симметричная разность:**  
